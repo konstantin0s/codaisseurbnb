@@ -6,10 +6,9 @@ git_source(:github) do |repo_name|
 end
 
 
+gem 'devise', '~> 4.2'
 
-# Gemfile
 
-# rest of the code...
 
 # Use Bootstrap for styling
 gem 'bootstrap-sass', '~> 3.3.6'
